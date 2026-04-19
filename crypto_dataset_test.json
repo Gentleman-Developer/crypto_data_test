@@ -1,338 +1,56 @@
 [
-    {
-        "currency": "GDAC",
-        "price": "0.00016392"
-    },
-    {
-        "currency": "GEM",
-        "price": "0.00022197"
-    },
-    {
-        "currency": "GEN",
-        "price": "0.08014031"
-    },
-    {
-        "currency": "GENES",
-        "price": "0.01377790"
-    },
-    {
-        "currency": "GENIX",
-        "price": "0.00016177"
-    },
-    {
-        "currency": "GENT",
-        "price": "0.00000045"
-    },
-    {
-        "currency": "GENX",
-        "price": "0.00007116"
-    },
-    {
-        "currency": "GEO",
-        "price": "0.20202101"
-    },
-    {
-        "currency": "GET",
-        "price": "0.00747359"
-    },
-    {
-        "currency": "GEX",
-        "price": "0.00000395"
-    },
-    {
-        "currency": "GFUN",
-        "price": "0.00090468"
-    },
-    {
-        "currency": "GGC",
-        "price": "31.96309235"
-    },
-    {
-        "currency": "GIC",
-        "price": "0.01061068"
-    },
-    {
-        "currency": "GIG",
-        "price": "0.03184422"
-    },
-    {
-        "currency": "GIN",
-        "price": "0.02030668"
-    },
-    {
-        "currency": "GIO",
-        "price": "0.00047551"
-    },
-    {
-        "currency": "GIT",
-        "price": "0.00047579"
-    },
-    {
-        "currency": "GIVE",
-        "price": "0.00009516"
-    },
-    {
-        "currency": "GLOBAL",
-        "price": "0.00069109"
-    },
-    {
-        "currency": "GMAT",
-        "price": "0.00393398"
-    },
-    {
-        "currency": "GMB",
-        "price": "0.00011125"
-    },
-    {
-        "currency": "GMB2",
-        "price": "0.00361138"
-    },
-    {
-        "currency": "GMCI",
-        "price": "0.00000045"
-    },
-    {
-        "currency": "GNO",
-        "price": "14.76358754"
-    },
-    {
-        "currency": "GNT",
-        "price": "0.04425050"
-    },
-    {
-        "currency": "GNX",
-        "price": "0.00757697"
-    },
-    {
-        "currency": "GNY",
-        "price": "0.06375604"
-    },
-    {
-        "currency": "GO",
-        "price": "0.02235793"
-    },
-    {
-        "currency": "GOAT",
-        "price": "0.00057095"
-    },
-    {
-        "currency": "GOD",
-        "price": "7.51750342"
-    },
-    {
-        "currency": "GOLD",
-        "price": "0.00000952"
-    },
-    {
-        "currency": "GOOC",
-        "price": "0.00042631"
-    },
-    {
-        "currency": "GOSS",
-        "price": "0.00018094"
-    },
-    {
-        "currency": "GOT",
-        "price": "0.15511376"
-    },
-    {
-        "currency": "GPC",
-        "price": "0.00010000"
-    },
-    {
-        "currency": "GPKR",
-        "price": "0.00618529"
-    },
-    {
-        "currency": "GPS",
-        "price": "0.02712011"
-    },
-    {
-        "currency": "GPU",
-        "price": "0.00009569"
-    },
-    {
-        "currency": "GRAM",
-        "price": "0.00003711"
-    },
-    {
-        "currency": "GRFT",
-        "price": "0.00042153"
-    },
-    {
-        "currency": "GRID",
-        "price": "0.06588256"
-    },
-    {
-        "currency": "GRIN",
-        "price": "1.16360140"
-    },
-    {
-        "currency": "GRLC",
-        "price": "0.00047579"
-    },
-    {
-        "currency": "GRN",
-        "price": "0.00432970"
-    },
-    {
-        "currency": "GRS",
-        "price": "0.23006855"
-    },
-    {
-        "currency": "GSC",
-        "price": "0.00438148"
-    },
-    {
-        "currency": "GSE",
-        "price": "0.00011069"
-    },
-    {
-        "currency": "GSR",
-        "price": "0.01912681"
-    },
-    {
-        "currency": "GSX",
-        "price": "0.02274283"
-    },
-    {
-        "currency": "GT",
-        "price": "0.48273951"
-    },
-    {
-        "currency": "GTC",
-        "price": "0.00616114"
-    },
-    {
-        "currency": "GTM",
-        "price": "0.03073612"
-    },
-    {
-        "currency": "GTO",
-        "price": "0.01098034"
-    },
-    {
-        "currency": "GUP",
-        "price": "0.00242654"
-    },
-    {
-        "currency": "GUSD",
-        "price": "0.98975149"
-    },
-    {
-        "currency": "GUSS",
-        "price": "0.00007135"
-    },
-    {
-        "currency": "GUTS",
-        "price": "0.40215868"
-    },
-    {
-        "currency": "GVC",
-        "price": "0.00199832"
-    },
-    {
-        "currency": "GVE",
-        "price": "0.00025612"
-    },
-    {
-        "currency": "GVT",
-        "price": "1.10939101"
-    },
-    {
-        "currency": "GXC",
-        "price": "0.52613471"
-    },
-    {
-        "currency": "GXE",
-        "price": "0.00066611"
-    },
-    {
-        "currency": "GXS",
-        "price": "0.52860420"
-    },
-    {
-        "currency": "GXX",
-        "price": "0.02969503"
-    },
-    {
-        "currency": "HAL",
-        "price": "0.00197667"
-    },
-    {
-        "currency": "HALO",
-        "price": "0.00041312"
-    },
-    {
-        "currency": "HAPPY",
-        "price": "0.01503501"
-    },
-    {
-        "currency": "HARMONY",
-        "price": "0.00581361"
-    },
-    {
-        "currency": "HART",
-        "price": "0.00254398"
-    },
-    {
-        "currency": "HASH2",
-        "price": "0.00009516"
-    },
-    {
-        "currency": "HAVY",
-        "price": "0.00000198"
-    },
-    {
-        "currency": "HB",
-        "price": "0.00258390"
-    },
-    {
-        "currency": "HBAR",
-        "price": "0.02126208"
-    },
-    {
-        "currency": "HBT",
-        "price": "0.16271172"
-    },
-    {
-        "currency": "HBZ",
-        "price": "0.00141522"
-    },
-    {
-        "currency": "HC",
-        "price": "1.81368849"
-    },
-    {
-        "currency": "HDAC",
-        "price": "0.02436052"
-    },
-    {
-        "currency": "HDD",
-        "price": "0.00038206"
-    },
-    {
-        "currency": "HDN",
-        "price": "0.00009438"
-    },
-    {
-        "currency": "HDS",
-        "price": "0.00001279"
-    },
-    {
-        "currency": "HEALTHRETAIL",
-        "price": "0.02134808"
-    },
-    {
-        "currency": "HELP",
-        "price": "0.00161769"
-    },
-    {
-        "currency": "HELPICO",
-        "price": "0.38998530"
-    },
-    {
-        "currency": "HER",
-        "price": "0.00005732"
-    }
+  { "currency": "BTC", "price": "65000.00" },
+  { "currency": "ETH", "price": "3200.50" },
+  { "currency": "BNB", "price": "580.20" },
+  { "currency": "SOL", "price": "145.75" },
+  { "currency": "XRP", "price": "0.72" },
+  { "currency": "ADA", "price": "0.55" },
+  { "currency": "DOGE", "price": "0.18" },
+  { "currency": "AVAX", "price": "38.40" },
+  { "currency": "DOT", "price": "7.25" },
+  { "currency": "MATIC", "price": "0.95" },
+
+  { "currency": "LINK", "price": "18.60" },
+  { "currency": "ATOM", "price": "11.30" },
+  { "currency": "LTC", "price": "92.10" },
+  { "currency": "NEAR", "price": "6.40" },
+  { "currency": "UNI", "price": "9.80" },
+  { "currency": "ICP", "price": "12.50" },
+  { "currency": "FIL", "price": "5.20" },
+  { "currency": "APT", "price": "10.90" },
+  { "currency": "ARB", "price": "1.25" },
+  { "currency": "OP", "price": "2.10" },
+
+  { "currency": "GRT", "price": "0.22" },
+  { "currency": "SAND", "price": "0.48" },
+  { "currency": "MANA", "price": "0.52" },
+  { "currency": "AXS", "price": "6.30" },
+  { "currency": "CHZ", "price": "0.12" },
+  { "currency": "ENJ", "price": "0.28" },
+  { "currency": "AAVE", "price": "95.40" },
+  { "currency": "CRV", "price": "0.62" },
+  { "currency": "COMP", "price": "48.90" },
+  { "currency": "MKR", "price": "1800.00" },
+
+  { "currency": "RUNE", "price": "4.10" },
+  { "currency": "KAVA", "price": "0.85" },
+  { "currency": "INJ", "price": "15.60" },
+  { "currency": "SEI", "price": "0.42" },
+  { "currency": "TIA", "price": "7.80" },
+  { "currency": "JUP", "price": "1.10" },
+  { "currency": "BONK", "price": "0.00002" },
+  { "currency": "PEPE", "price": "0.00001" },
+  { "currency": "SHIB", "price": "0.000025" },
+  { "currency": "FLOKI", "price": "0.00018" },
+
+  { "currency": "TRX", "price": "0.14" },
+  { "currency": "VET", "price": "0.035" },
+  { "currency": "HBAR", "price": "0.09" },
+  { "currency": "ALGO", "price": "0.18" },
+  { "currency": "XTZ", "price": "0.75" },
+  { "currency": "EGLD", "price": "42.30" },
+  { "currency": "QNT", "price": "105.00" },
+  { "currency": "FLOW", "price": "0.85" },
+  { "currency": "FTM", "price": "0.55" },
+  { "currency": "GMX", "price": "38.20" }
 ]
